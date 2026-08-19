@@ -1,4 +1,4 @@
-# Time Series Forecasting
+# Time Series Analysis
 
 A hands-on, notebook-based tour of time series analysis and forecasting in Python — from handling dates and time zones in pandas, through decomposition and stationarity, to ARIMA forecasting, spectral (Fourier) extrapolation, and DTW-based clustering.
 
